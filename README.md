@@ -1,5 +1,7 @@
 # Radar immobilier
 
+![Aperçu du projet immo-radar](docs/banner.png)
+
 Analyse 100 % gratuite des ventes réelles (DVF, données publiques) pour savoir **quoi regarder** et **quand acheter**, et pour scorer des annonces. Tout tourne sur GitHub Actions, sans serveur ni service payant.
 
 > **Avertissement.** Ce sont des indicateurs statistiques calculés sur des données publiques, pas un conseil en investissement. Vérifie toujours un bien sur place, son état, sa copropriété et sa fiscalité avant de décider.
